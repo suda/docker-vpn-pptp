@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:14.10
 MAINTAINER Przemek Szalko <przemek@mobtitude.com>
 
 ENV DEBIAN_FRONTEND noninteractive
